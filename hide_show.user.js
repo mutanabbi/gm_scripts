@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Hide Show
-// @include     http://myshows.me/profile/*
+// @include     /^https?://myshows\.me/profile/.*/
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.js
 // @require     http://yastatic.net/underscore/1.6.0/underscore-min.js
 // @grant       GM_getValue
